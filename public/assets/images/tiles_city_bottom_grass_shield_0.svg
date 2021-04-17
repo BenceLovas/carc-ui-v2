@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="120px"
+	 height="120px" viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
+<g id="helper">
+</g>
+<g id="example">
+</g>
+<g id="base" display="none">
+</g>
+<g id="road_x5F_top_x5F_bottom" display="none">
+</g>
+<g id="road_x5F_left_x5F_right" display="none">
+</g>
+<g id="road_x5F_straight" display="none">
+</g>
+<g id="road_x5F_3_x5F_split" display="none">
+</g>
+<g id="road_x5F_to_x5F_mid" display="none">
+</g>
+<g id="chapel_x5F_part_x5F_1" display="none">
+</g>
+<g id="chapel_x5F_part_x5F_2" display="none">
+</g>
+<g id="chapel" display="none">
+</g>
+<g id="Layer_33">
+</g>
+<g id="Layer_34">
+</g>
+<g id="house" display="none">
+</g>
+<g id="city_x5F_top" display="none">
+</g>
+<g id="city_x5F_bottom" display="none">
+</g>
+<g id="city_x5F_diagonal_x5F_top_x5F_right" display="none">
+</g>
+<g id="city_x5F_diagonal_x5F_top_x5F_right_x5F_side" display="none">
+</g>
+<g id="city_x5F_diagonal_x5F_top_x5F_right_x5F_bottom" display="none">
+</g>
+<g id="city_x5F_full" display="none">
+</g>
+<g id="city_x5F_narrow_x5F_left_x5F_right" display="none">
+</g>
+<g id="city_x5F_narrow_x5F_top_x5F_bottom" display="none">
+</g>
+<g id="city_x5F_3_x5F_side_x5F_top" display="none">
+</g>
+<g id="city_x5F_3_x5F_side_x5F_bottom" display="none">
+</g>
+<g id="shield_x5F_top_x5F_left" display="none">
+</g>
+<g id="shield_x5F_right_x5F_bottom" display="none">
+</g>
+<g id="shield_x5F_top" display="none">
+</g>
+<g id="shield_x5F_side" display="none">
+</g>
+<g id="bases">
+	<g>
+		<polygon fill="#7A7A7A" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			1.892,71.596 1.892,65.852 60,113.256 60,119 		"/>
+		<polygon fill="#555454" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			60,113.256 118.108,65.852 118.108,71.596 60,119 		"/>
+		<polygon fill="#A0A09F" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			1.892,65.852 60,18.447 118.108,65.852 60,113.256 		"/>
+	</g>
+</g>
+<g id="roads">
+</g>
+<g id="houses">
+</g>
+<g id="chapels">
+</g>
+<g id="cities">
+	<polygon fill="#2D2D2D" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		1.914,65.243 1.914,59.366 60.023,106.771 60.023,112.647 	"/>
+	<polygon fill="#2D2D2D" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		1.914,59.366 60.023,11.961 118.131,59.366 96.34,59.136 60.023,88.763 60.023,106.771 	"/>
+	<polygon fill="#161616" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		118.131,59.366 118.131,65.243 96.34,65.062 96.34,59.136 	"/>
+	<polygon fill="#161616" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		96.34,59.136 60.023,88.763 60.022,94.871 96.34,65.062 	"/>
+</g>
+<g id="shields">
+	<polygon fill="#FFFFFF" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		50.3,51.31 53.799,67.574 69.746,54.961 	"/>
+</g>
+</svg>
