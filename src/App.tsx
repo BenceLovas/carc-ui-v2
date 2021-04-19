@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Game from "./pages/game/Game";
-import Login from "./pages/login/Login";
+import Nickname from "./pages/nickname/Nickname";
+import Login from './pages/login/Login';
 
 const App = () => {
   return (
@@ -10,7 +11,10 @@ const App = () => {
         <Route path="/game">
           <Game />
         </Route>
-        <Route path="/">
+        <Route path="/nickname">
+          <Nickname />
+        </Route>
+        <Route path={["/login", "/"]}>
           <Login />
         </Route>
       </Switch>
